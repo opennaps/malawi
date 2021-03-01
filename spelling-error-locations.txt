@@ -1,3 +1,14 @@
+content/01.abstract.md:3:Masi
+content/01.abstract.md:7:Masi
+content/01.abstract.md:8:USAID
+content/01.abstract.md:15:Masi
+content/01.abstract.md:16:Masi
+content/01.abstract.md:17:Masi
+content/01.abstract.md:17:Masi
+content/01.abstract.md:18:riverine
+content/01.abstract.md:20:hydropower
+content/01.abstract.md:20:siltation
+content/01.abstract.md:23:schistosomiasis
 content/03.chapter2-Framework-for-the-NAP.md:3:xxxx
 content/04.chapter3-Approach-and-Methodologies.md:3:xxxx
 content/06.chapter5-Vision-Goals-Objecives-of-the-NAP.md:3:xxxx
