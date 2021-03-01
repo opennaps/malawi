@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/de1faecf26bdb5e1c7f6ade104fb59ccd7a70d7d/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/de1faecf26bdb5e1c7f6ade104fb59ccd7a70d7d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/de1faecf26bdb5e1c7f6ade104fb59ccd7a70d7d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/65ab57c734fd2d3a5e626e7c6c0d893987378f45/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/65ab57c734fd2d3a5e626e7c6c0d893987378f45/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/65ab57c734fd2d3a5e626e7c6c0d893987378f45/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/de1faecf26bdb5e1c7f6ade104fb59ccd7a70d7d/))
+([permalink](https://opennaps.github.io/malawi/v/65ab57c734fd2d3a5e626e7c6c0d893987378f45/))
 was automatically generated
-from [opennaps/malawi@de1faec](https://github.com/opennaps/malawi/tree/de1faecf26bdb5e1c7f6ade104fb59ccd7a70d7d)
+from [opennaps/malawi@65ab57c](https://github.com/opennaps/malawi/tree/65ab57c734fd2d3a5e626e7c6c0d893987378f45)
 on March 1, 2021.
 </em></small>
 
@@ -107,7 +107,7 @@ changes between wet and dry seasons. The wet season generally occurs between Nov
 range between 18° and 27°C, and the wet season can bring average monthly rainfall in the order of 150 mm to 300 mm (Masi 2017). Annual rainfall ranges from 500 mm 
 in low-lying areas such as the Shire Valley to above 3,000 mm in the northern highlands (USAID 2017a).
 
-![image](https://user-images.githubusercontent.com/64316315/109566929-db946600-7ae4-11eb-9c32-a16a16a2aebe.png)
+![image](https://user-images.githubusercontent.com/64316315/109566998-f5ce4400-7ae4-11eb-885c-73f52a7f9cfb.png)
 
 Left panel: District map of Malawi. Source: doi: https://doi.org/10.1371/journal.pone.0242226.g001; Right panel: Malawi Climate Vulnerability Map. Source: https://fraym.io/malawis-adaptive-capacity-to-climate-change/final_map/
 
