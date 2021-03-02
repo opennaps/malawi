@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/opennaps/malawi/tree/gh-pages) branch hosts the contents of this directory at <https://opennaps.github.io/malawi/>.
-The permalink for this webpage version is <https://opennaps.github.io/malawi/v/28b52f4362fa23cebd9018f89896ab00313b6ac7/>.
+The permalink for this webpage version is <https://opennaps.github.io/malawi/v/d65641f8f7423a0bee86fb604703606d98a51e25/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://opennaps.github.io/malawi/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`28b52f4362fa23cebd9018f89896ab00313b6ac7`](https://github.com/opennaps/malawi/commit/28b52f4362fa23cebd9018f89896ab00313b6ac7).
+[`d65641f8f7423a0bee86fb604703606d98a51e25`](https://github.com/opennaps/malawi/commit/d65641f8f7423a0bee86fb604703606d98a51e25).
