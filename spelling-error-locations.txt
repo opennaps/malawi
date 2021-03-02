@@ -322,6 +322,7 @@ content/05.chapter4-National-Context.md:278:hydropower
 content/05.chapter4-National-Context.md:280:Socio
 content/05.chapter4-National-Context.md:281:socio
 content/05.chapter4-National-Context.md:282:organisations
+content/05.chapter4-National-Context.md:291:favourable
 content/06.chapter5-Vision-Goals-Objecives-of-the-NAP.md:4:socio
 content/08.chapter7-National-Adaptation-Priorities.md:3:xxxx
 content/08.chapter7-National-Adaptation-Priorities.md:4:xxxx

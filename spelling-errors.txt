@@ -22,7 +22,7 @@ Chinsinga
 Chiuta
 COMESA
 Contrastingly
-Covid
+COVID
 diarrhoea
 DoDMA
 downscaled
@@ -36,6 +36,7 @@ enrolment
 ENSO
 evapotranspiration
 FAO
+favourable
 FISP
 GBI
 GCF
@@ -43,7 +44,7 @@ GEF
 geospatial
 GHG
 GINI
-GoM
+GOM
 HDI
 hydropower
 IACADES
@@ -67,7 +68,7 @@ Malata
 Malombe
 Mapulanga
 Masi
-Masterplan
+masterplan
 maximise
 MCCCI
 MDAs
@@ -128,9 +129,9 @@ schistosomiasis
 SCT
 SDG
 SDGs
-Sectoral
+sectoral
 siltation
-socio
+Socio
 Songwe
 Soya
 SPCR
