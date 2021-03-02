@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/28b52f4362fa23cebd9018f89896ab00313b6ac7/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/28b52f4362fa23cebd9018f89896ab00313b6ac7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/28b52f4362fa23cebd9018f89896ab00313b6ac7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/d65641f8f7423a0bee86fb604703606d98a51e25/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/d65641f8f7423a0bee86fb604703606d98a51e25/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/d65641f8f7423a0bee86fb604703606d98a51e25/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/28b52f4362fa23cebd9018f89896ab00313b6ac7/))
+([permalink](https://opennaps.github.io/malawi/v/d65641f8f7423a0bee86fb604703606d98a51e25/))
 was automatically generated
-from [opennaps/malawi@28b52f4](https://github.com/opennaps/malawi/tree/28b52f4362fa23cebd9018f89896ab00313b6ac7)
+from [opennaps/malawi@d65641f](https://github.com/opennaps/malawi/tree/d65641f8f7423a0bee86fb604703606d98a51e25)
 on March 2, 2021.
 </em></small>
 
@@ -449,10 +449,10 @@ In addition, and following the experiences gathered from the implementation of t
 These were supported with emerging new data from the published literature. The assessment of these documents together included:
 
 a. Process of identification/stocktaking of desirable and available information
-  i. Climate and socio-economic data and information
-  ii. Current assessments: Exploring possibilities for further assessments
-  iii. Policies, strategies, plans
-  iv. Existing initiatives on adaptation
+ i. Climate and socio-economic data and information
+ ii. Current assessments: Exploring possibilities for further assessments
+ iii. Policies, strategies, plans
+ iv. Existing initiatives on adaptation
 
 b. Resource mobilization for the process.
 
@@ -471,10 +471,10 @@ as appropriate.
 
 The framework to guide the assessment of vulnerabilities and risks included:
 
-  i. Conceptual framework of vulnerability and risk at various levels: national, system level, local level, etc.
-  ii. Boundary conditions for the assessment using the period 1971-2000 for baseline climate but also extended further back into time where data is available.
-  iii. Focus on key systems/sectors
-  iv. Synergy with SDGs, Sendai Framework for DRR, and other relevant regional and national frameworks.
+ i. Conceptual framework of vulnerability and risk at various levels: national, system level, local level, etc.
+ ii. Boundary conditions for the assessment using the period 1971-2000 for baseline climate but also extended further back into time where data is available.
+ iii. Focus on key systems/sectors
+ iv. Synergy with SDGs, Sendai Framework for DRR, and other relevant regional and national frameworks.
 
 ### Other unique considerations
 The emergence of the COVID-19 pandemic in early 2020 disrupted globally, established societal structures and ways of doing things, and has had devastating 

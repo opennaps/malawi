@@ -19,7 +19,7 @@ evapotranspiration
 FISP
 GCF
 GEF
-GoM
+GOM
 HDI
 hydropower
 IACADES
@@ -54,7 +54,7 @@ parastatals
 peri
 Phalombe
 prioritise
-programme
+Programme
 programmes
 Programme’s
 PWP
@@ -84,5 +84,5 @@ USD
 Vison
 wellbeing
 workplans
-xxxx
+XXXX
 XXXXXXXX
