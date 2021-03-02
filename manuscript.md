@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/a53c42bf3195718dc6cc68162c62004b39accfd3/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/a53c42bf3195718dc6cc68162c62004b39accfd3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/a53c42bf3195718dc6cc68162c62004b39accfd3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/de36e2ebe6321b275c9875883ba25e4faf9ec77f/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/de36e2ebe6321b275c9875883ba25e4faf9ec77f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/de36e2ebe6321b275c9875883ba25e4faf9ec77f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/a53c42bf3195718dc6cc68162c62004b39accfd3/))
+([permalink](https://opennaps.github.io/malawi/v/de36e2ebe6321b275c9875883ba25e4faf9ec77f/))
 was automatically generated
-from [opennaps/malawi@a53c42b](https://github.com/opennaps/malawi/tree/a53c42bf3195718dc6cc68162c62004b39accfd3)
+from [opennaps/malawi@de36e2e](https://github.com/opennaps/malawi/tree/de36e2ebe6321b275c9875883ba25e4faf9ec77f)
 on March 2, 2021.
 </em></small>
 
@@ -1004,6 +1004,210 @@ Agriculture, Water development and Climate Change Management, KPA2- Education an
 Transport and ICT Infrastructure, KPA5- Health and Population 
 
 INSERT TABLE HERE
+
+#### Food Production Megasystem 
+The Food Production System in Malawi is complex – highly fragmented and dependent on many small-scale producers who are often non-market oriented and vulnerable to 
+climate change. This is on a background of many environmental risks that impose limits to systems productivity. A recent report on the Malawi’s Agri-food System 
+(White, 2019) demonstrates the country’s agri-food system’s complexity in two fundamental ways (i) the country’s agri-food system comprises 80% of the population of 
+about 18.1 million people consisting of smallholder farmers and many who work as food retailers, transporters, and small-scale processors. (ii) the country’s food 
+production system operates in a complex policy debate about the role of subsidies such as the Farm Input Subsidy Program (FISP) against priorities for Greenhouse 
+Gas (GHG) mitigation. For the purpose of the National Adaptation Plan (NAP), this section limits description of the country’s food production system within the 
+scope of crop, livestock and the fisheries and aquaculture subsystems from climate change adaptation context.  
+
+The performance of agri-food system in Malawi is vulnerable to a high degree of uncertainty and volatility compounded with limited adaptive capacities, especially 
+among smallholder farmers. This is because, the country’s agri-food system relies on rainfed annual agriculture production thriving in highly variable climate, 
+compounded with the fall armyworm (Spodoptera frugiperda). Many people, both urban and rural are perpetually vulnerable to an annual hungry season when the previous 
+year’s harvest has been poor. Trends have shown that, malnutrition was steadily declining from a high of 26.3% in 1998, down to 12.1% in 2009, back up to 16.7% in 
+2014, with undernourishment in 2015 staggering at 20.7% and declines remained slow in recent years. 
+
+The volatility and precarity of the agri-food system is exacerbated by the combined impacts of poor infrastructure, uneven and deteriorating power access, expensive 
+fuel, and poverty. Across the region, climate change is yet, expected to have widely variable impacts that generally exacerbate variability and extremes. The future 
+impacts of the agri-food system can be reflected in the response of other subsystems such as energy and infrastructures (Table 1.1a-b).
+
+Table 1.1a: Observed climate impacts at Country Level Impact of Climate Change (CLICC) in Malawi.  
+
+| Sector      | Observed climate impacts                                                                                                                                                             | Global impact<br>rating | National impact<br>rating | Confidence rating | Data quality<br>rating | Time period |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------|-------------------|------------------------|-------------|
+| Agriculture | Reduced crop yield associated with heat and drought stress.                                                                                                                          | Low-High                | Low-High                  | High              | Low                    | 1992-2017   |
+| Crops       | - Changes in crop suitability due to shifts in agroecological<br>zones.<br> <br>- Economic losses due to severe reductions in crop yields<br>caused by frequent floods and droughts. | Medium-High             | Medium-High               | Medium-High       | Low                    | 1992-2017   |
+| Livestock   | Increased animal mortality associated with intense heat,<br>frequent droughts and floods.                                                                                            | Low- Medium             | Low- Medium               | Low               | Low                    | 1992-2017   |
+
+Table 1.1b: Projected climate change impacts on the agri-food system. With medium rating based on medium quality data, agricultural yield will exhibit declining trends
+
+| Sector                   | Projected climate impacts                                                                              | Impact<br>rating | Confidence rating | Data quality<br>rating | Time period |
+|--------------------------|--------------------------------------------------------------------------------------------------------|------------------|-------------------|------------------------|-------------|
+| Agriculture              | Declining yield among all types of crops in all parts of<br>the country except in the northern region. | Medium           | Low-Medium        | Medium                 | 2007-2050   |
+| Energy                   | Hydropower production negatively affected by high<br>rainfall variability.                             | Medium           | Medium            | Low                    | 2007-2050   |
+| Built <br>Infrastructure | Increased damage to infrastructure and human settlement<br>due to intense flooding.                    | High             | High              | Low                    | 2007-2050   |
+
+**Source:** CLICC Phase 2 Project (2019). 
+
+#### Crop Production Subsystem 
+Approximately, 90% percent of the crops are rainfed, and most farmers cultivate on small parcels of land of approximately 0.5 to 1.5 ha, although Lea & Hanmer 
+(2009) note that many farmers in some parts of the country leave portions of their plots fallow, which is partially due to labour constraints (Bezner-Kerr & 
+Patel, 2014). It is estimated that 11% of farmers are landless and only 13% of households cultivate on more than 2ha (Mangelsdorf, Hoppe, Kirk, & Dihel, 2014). 
+Household land farms vary across the country – larger in the northern region than further south due to lower population density. Maize occupies at least 60% of 
+cultivated land and is farmed by 97% of farming households. It makes up 60-70% of total food intake and 48% of protein consumption (Kampanje-Phiri, 2016). 
+Average maize yields in Malawi are around 1.2 MT/ha, which is lower than the average for Africa, 1.8 MT/ha, also considered far below the average potential 
+(Abate et al., 2017; Mango et al., 2018). 
+
+Total cultivatable land is not fully explored in Malawi. Currently total land cultivated is about 2.5 million hectares (Agric-policy) but total suitable area for 
+agriculture is about 4.7 million hectares. The cash crops like, tobacco, tea, sugarcane, and macadamia are cultivated in estate subsector. The estate subsector 
+also provides contract farming opportunities for smallholder farmers. Out of the cultivated land 90% is under rain fed agriculture despite that there are 407, 
+862 hectares of land that have the potential for irrigation farming. Out of the 400,000 hectares of land suitable for irrigation, only 14,000 hectares are under 
+smallholder farmer irrigation while 48,000 hectares are under estate irrigation. This indicates a huge gap that can be addressed through investment.
+
+With quantitative data available for eight soil and terrain factors, a recent study (Li et al., 2017)4  has indicated that highly suitable, moderately suitable, 
+marginally suitable, and unsuitable agricultural areas account for 8.2%, 24.1%, 28.0%, and 39.7% of the total land area, respectively. The majority of suitable 
+lands are currently used for agriculture, but more than half (57.4%) of Malawi’s total cropland exists on marginally suitable or unsuitable land categories and 
+is likely a candidate for rehabilitation through sustainable agricultural practices, if the crop production subsystem is to adapt to climate change. 
+
+Over the years the government has implemented agricultural input programs to improve agriculture production in the country amidst of the challenges. Most of 
+these input programs have focused on Maize production the staple food. The main aim of these programs has been to improve the productivity of the smallholder 
+maize farms so as to ensure food security. Since the early seventy’s the government has implemented six agricultural input programs which include:
+
+- Agricultural Input Subsidy Programme: – subsidized seed and fertilizer for smallholder farmers (1970-1995) 
+
+- Supplementary Input Programme: – Input kit distribution to vulnerable households (1995-1997).  
+
+- Starter Pack Programme: – Universal distribution of fertilizer and seed (1998-99).  
+
+- Targeted Input Programme: – Targeted fertilizer and seed distribution (2000-04). 
+
+- The 2005 Extended Target Input Programme: – Expanded targeted fertilizer and seed distribution.  
+
+- Farm Input Subsidy Programme: – Targeted voucher based maize seed and fertilizer subsidies (2006 to present). 
+
+The main aim of these programs has been to improve the productivity of the smallholder maize farms so as to ensure food security. However, some of these programs 
+did not achieve the intended goals hence they were phased out. For instance, despite having the Targeted input programme (2000-04) and the 2005 extended target 
+input programme the country still experienced severe food crises in 2002 and 2005.  Currently, the Farm Input Subsidy Programme (FISP) is being implemented where 
+smallholder famers are provided with coupons which allow them to purchase hybrid maize seed and fertilizers at relatively low prices. The FISP programme has 
+positive impacts on maize production and net crop income but limited impact on food consumption and household income (references). Furthermore, weaknesses of the 
+programme have been pointed out including its financial sustainability and identification of beneficiaries (IFPRI, 2013), as there is high support to the middle 
+income than the poorest. 
+
+The constraints to expanding irrigation for agricultural production have been:  
+
+- Focusing of the agricultural economy on rainfed agriculture and existing irrigation schemes, where emphasis was on funding extension activities.  
+
+- Reluctance of donors to fund irrigation development.  
+
+- Replacement of irrigation services under the Ministry of Agriculture, which has focused on rainfed agriculture.  
+
+- Price setting for crops not viable for irrigation.  
+
+- Almost no irrigation technology training facilities within the country.  
+
+- A poorly funded and understaffed Department of Irrigation. 
+
+#### Livestock Production Subsystem 
+The livestock industry in Malawi is underdeveloped and contributes only 8% of total GDP and about 36% the value of total agricultural products. Both smallholders 
+and estate farmers are involved in livestock production, but due to various production bottlenecks, intensive livestock production systems are largely dominated 
+by estate farms. Despite that, livestock provides food, income, manure, animal traction and social security to some smallholder farmers. Considering all this, 
+livestock may account more than 11% to Gross Domestic Production. Major livestock production comprise beef, dairy, goat, sheep, pigs, chicken and eggs, with 
+registered small increases in recent years. Population of cattle has been increasing by 3% annually. In 2014 there were over 1.3 million cattle and over 6.3 
+million goats in the country. Livestock production experiences varying challenges including: (i) limited pasture due to human population pressure (ii) inadequate 
+production and storage technologies in feed and breeding programmes (iii) Insufficient health support infrastructure and services such as dip tanks. 
+
+Spatial coverage of floods responsible for economic losses are generally localized in watershed areas. This limited coverage creates localized impacts such as 
+crop and soil losses; hence the rating is medium. However, the impacts are felt on the national economy hence the rating is high. For example, on average, Malawi 
+loses US$9 million or 0.7% of the GDP each year due to floods in the southern region of the country. Taken together, drought and floods cost the Malawian economy 
+about 1.7% of its GDP every year. This is equivalent to almost US$22 million. 
+
+Available literature agrees on the devastating impacts of frequent and severe floods and droughts on the agriculture sector in Malawi. The sector suffers the 
+greatest losses, effecting declines in GDP ranging from 1.1 to 21.5% during Return Period of 5 years (RP5) and Return period of 25 years (RP25) for droughts, 
+respectively. Furthermore, the literature and experts agree that low agriculture productivity resulting from climate change result in food shortages, cause 
+domestic grain prices to rise while grain imports increase rapidly to cover the shortfall. Maize imports, for example, increase by between 6 and 256% during RP5 
+and RP25 droughts, respectively. The possibility for high rating of the impacts implies that spatial coverage is at times wide, and frequency of the impact 
+increases to high. For example, maize is by far the dominant crop produced in Malawi, occupying more than 70 per cent of available agricultural land and is 
+critically important to livelihoods. The average land holding size per household for smallholders in Malawi in the period under consideration was 1.2 hectares. 
+Over 90% of the total agricultural value-added came from about 1.8 million smallholders who on average owned only 1 hectare of land. Flooding in low-lying areas 
+where productivity is inherently high affected almost the whole country in terms of food availability stability and accessibility. The alternation with droughts 
+in the high areas complicates crop productivity. Floods wash away livestock in the low-lying areas. 
+
+#### Agriculture Markets and Trade Subsystem 
+Malawi is an export-led economy and agriculture comprises 80% of exports, with major export crop being tobacco, but sugar, tea, and coffee. The role of tobacco 
+as an export crop is continuously declining. Smallholder rainfed maize production dominates and comprises about 25% of the agricultural GDP, of which agriculture 
+as a whole makes up around 30% of the overall GDP (Pauw, Beck, & Mussa, 2016). At the farm level, net revenue varies widely and may be influenced by multiple 
+factors such as soil conditions, farm size, infrastructure, distance to market, composition of the household, education levels, agro-climatic variability, and 
+other variables.  
+
+Transportation of agricultural produce/seeds and agriculture markets constitutes one of the components of the food production system. Agriculture produce is 
+transported differently from the farm to the storage facilities or from the farm to the market depending on distance to be covered and on the financial capacity 
+of the farmer. Among the modes of transport employed are; transportation by foot, bicycle, oxcarts and vehicles. Cereal crops are sold in different ways some are 
+sold to the Malawi government through the Agricultural Development and Marketing Corporation (ADMARC). The ADMARC sells and buys produce from farmers at 
+standardized prices. Other farmers who do not prefer to sell their crop produce to ADMARC usually sell at local markets or sell to vendors who usually move 
+around villages searching for crop produce to buy. For cash crops like tobacco the government has established structures like the Tobacco Control Commission 
+which regulate the sales of tobacco and facilitates exports of the produce.  
+
+Sales of livestock and fish are usually done at local markets. For African smallholder farmers to sustain the yield increases they seek, they are reliant on a 
+seed industry. On the other hand, a hybrid-based maize sector also requires large-scale commercial seed enterprises whose profits can be sustained only by strong 
+seasonal demand by farmers for renewing their seed (Haggblade & Hazell, 2010). Leading Seed Companies in Malawi Multinational seed companies carry out seed 
+breeding, production, multiplication, processing, and distribution of mainly hybrid maize. Local seed companies are involved only in seed multiplication and 
+distribution. Malawi’s main seed companies are Seed Co, Monsanto (Bayer), DowDuPont (Pannar), Demeter, and MUSECO.  
+
+_**The Country Vision on Trade._**
+
+The Malawi Vision 2063 shows the country’s commitment to have an agricultural development and marketing entity running on commercial principles, promoting the 
+commercialization of agriculture and providing local and international structured market linkages farmers. The parastatals shall operate under a strong alliance 
+with the private sector, in a transparent and accountable manner and independent of political interference. 
+
+Malawi is a member of WTO since 1995 and, in recent years has targeted trade-led development through trade expansion instruments, including regional trade 
+agreements. The country also a Member State of the Common Market for Eastern and Southern Africa4 (COMESA) and the Southern African Development Community5 
+(SADC), with each one accounting for less than a quarter of the country’s trade. Malawi is primarily a resource exporting country and features in the lowest 
+quartile among its regional trade agreement (RTA) partners in terms of GDP per capita – in 2017, the COMESA average was US$2,900 and the SADC average was 
+US$3,720. It is also a Signatory Party to the Protocol on Free Movement of Persons of the Kigali Declaration (2018) and to the 2018 African Continental Free 
+Trade Agreement (AfCFTA). 
+
+This active regional trade policy is remarkable and provides several trade-led opportunities for development. However, a variety of challenges and constraints 
+continue to impede trade, such as licensing requirements and a system of trade permits.6 Efforts, such as single window, are underway to simplify border or 
+certification procedures but, overall, there is a great deal of paperwork and specific certification regulation. In addition, standards-related regulations, and 
+implementation, notably Sanitary or Phytosanitary measures (SPS) and other Technical Barriers to Trade (TBT), can also be an impediment to the export of 
+agricultural and agriculture-related products. Malawi also faces several infrastructure-related constraints including poor transport links and lack of access to 
+electricity for a large proportion of the population - only 10 per cent have access - mirroring a trend in many African countries. On the other hand, over half 
+of the population have access to radio and mobile phone services. 
+
+Figure xxx displays the value-added breakdown of the Malawian GDP. The significant change in the aggregate economy since 2017 is characterized by a decline in 
+the share of the industrial sector from 29% in 1990 to 15% in 2017 and an increase in the share of the services sector. from 26% in 1990 to 56% in 2017. The 
+former can be explained by the small size of the sector and the relative expansion of world demand for certain basic agricultural products, which has led to a 
+shift towards greater specialization in raw or semi-processed products. The increase in the contribution from services is striking at first, given that the 
+sector’s predominance in generating value-added is generally a phenomenon of developed countries. The most dynamic over the past decade have been construction 
+and sub-sectors such as wholesale and retail trade, real estate, information and communication and financial services. Growth in the services sector is believed 
+to be driven by government expenditure as well as development assistance.3 The share of agriculture as a percentage of GDP has also seen a steady decline from 
+45% in 1990 to about 28% in 2017. 
+
+**FIGURE xxx:** Value-added breakdown 
+
+![image](https://user-images.githubusercontent.com/64316315/109655251-5a2fe880-7b63-11eb-8730-15845b2c2024.png)
+
+![image](https://user-images.githubusercontent.com/64316315/109655285-661baa80-7b63-11eb-9362-710802288fdd.png)
+
+Source:  UNCTAD secretariat calculations based on World Bank World Development Indicators data 
+
+#### Ecosystems
+Ecologically sensitive and fragile ecosystems are facing threats due to poor land use practices and deforestation. Habitat fragmentation and loss threaten 
+biodiversity. Deforestation is leading to the loss of mechanisms for adaptation from the increased impacts of severe flooding and excessive heat waves. 
+of the population have access to radio and mobile phone services. 
+
+INSERT TABLE HERE
+
+The Lake Malawi ecosystem is particularly an area of high freshwater biodiversity that plays a crucial role in the local economy of people living around the 
+lake. It is however also under increasing threat from development, deforestation, hydropower development, oil exploration and multiple other interconnected 
+factors. There is currently a lack of information and awareness of freshwater biodiversity within the region so existing conservation actions fail to recognize 
+its importance and vulnerability.  
+
+The country is committed to protection of ecosystems and the services. The national parks, wildlife reserves, and forest reserves cover 18% (1.7 million 
+hectares) of the land mass of Malawi and a substantial proportion of the Shire Valley. Effective protection of these resources will continue to contribute 
+significantly to address the drivers of climate change.  
+
+Degraded ecosystems need restoration to maintain carbon storage and sequestration, and through best practice land management to combat degradation. Currently, 
+forests are being lost and degraded at alarming rate, driven by a range of factors, including conversion for agriculture, overharvesting of firewood, cutting for 
+charcoal production and increasing frequency of forest fires. Consequently, the country is experiencing unprecedented loss of habitat and their biodiversity.  
+
+These factors are likely to intensify as population pressures continue to grow. Remnant forests decline in both quality and coverage and as changing climatic 
+factors influence regeneration, forest fire frequency etc. Investing in the sustainable management and conservation of these remaining natural habitats, with 
+strategies and interventions that are informed by climate modelling, offers a potentially cost-effective way of protecting ecosystem services and contributing to 
+resilience. The Government of Malawi has developed a National Biodiversity Strategy and Action Plan to deal with threats to biodiversity including ecosystems.   
 
 
 ## National Adaptation Priorities

@@ -43,7 +43,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-COVID
+Covid
 Dauenhauer
 diarrhoea
 Dihel
@@ -119,7 +119,7 @@ Malota
 Mangelsdorf
 Mapulanga
 Masi
-Masterplan
+masterplan
 maximise
 MCCCI
 Mchenga
@@ -205,7 +205,7 @@ SDGs
 sectoral
 siltation
 SIMLESA
-Socio
+socio
 Songwe
 Soya
 SPCR
