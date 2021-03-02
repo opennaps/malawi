@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/d6d527066f431eb314d95bd4d3f06a28230f7de4/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/d6d527066f431eb314d95bd4d3f06a28230f7de4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/d6d527066f431eb314d95bd4d3f06a28230f7de4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/c74fef206dff21f351e3ed3d4846f0a37e88aadf/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/c74fef206dff21f351e3ed3d4846f0a37e88aadf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/c74fef206dff21f351e3ed3d4846f0a37e88aadf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/d6d527066f431eb314d95bd4d3f06a28230f7de4/))
+([permalink](https://opennaps.github.io/malawi/v/c74fef206dff21f351e3ed3d4846f0a37e88aadf/))
 was automatically generated
-from [opennaps/malawi@d6d5270](https://github.com/opennaps/malawi/tree/d6d527066f431eb314d95bd4d3f06a28230f7de4)
+from [opennaps/malawi@c74fef2](https://github.com/opennaps/malawi/tree/c74fef206dff21f351e3ed3d4846f0a37e88aadf)
 on March 2, 2021.
 </em></small>
 
@@ -1805,7 +1805,26 @@ These strategic priorities on gender should be reflected in adaptation programme
 
 ## Further development of the programme to support future NAPs
 
-xxx
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+### Data and system observations to support future assessments 
+The required data and system observations to support future assessments have been outlined in sections 8.3 and 8.4. Each of these sections need to be updated during 
+each assessment to reflect the gaps existing at the time of the assessment. 
+
+ ### Roadmap for review and update of the NAP in five years 
+- To be developed with stakeholders
+
+
 
 
 ## Annex I: NAP Outputs

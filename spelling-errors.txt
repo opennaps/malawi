@@ -37,9 +37,9 @@ BWB
 Cacho
 capita
 CCA
-centre
+Centre
 centres
-Chambo
+chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -55,7 +55,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-Covid
+COVID
 crassipes
 CRWB
 Dauenhauer
@@ -65,7 +65,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-downscaled
+Downscaled
 DPRA
 DRR
 Dryland
@@ -82,7 +82,7 @@ ENRM
 enrolment
 ENSO
 ERASP
-eutrophication
+Eutrophication
 evapotranspiration
 famers
 FAO
@@ -182,7 +182,7 @@ MCCCI
 Mchenga
 MDAs
 MDGS
-megasystem
+Megasystem
 MF
 MGDS
 micronutrient
@@ -249,7 +249,7 @@ organisations
 orographic
 overexploitation
 overfished
-overfishing
+Overfishing
 overharvesting
 Pakhomo
 Pannar
@@ -265,7 +265,7 @@ PLWAs
 PPCR
 precarity
 prioritise
-Programme
+programme
 programmes
 Programme’s
 PWP
@@ -278,7 +278,7 @@ recognised
 reputational
 RISDP
 riverine
-roadmap
+Roadmap
 RTA
 Rukuru
 Rumphi
@@ -292,7 +292,7 @@ SCT
 SDG
 SDGs
 Secretareat
-sectoral
+Sectoral
 siltation
 SIMLESA
 Sinay
@@ -327,7 +327,7 @@ unaffordable
 UNAIDS
 UNCTAD
 UNDAF
-undernutrition
+Undernutrition
 UNDP
 UNEP
 UNFCC
