@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/7a43a2a27fe544c8b2350f1a478f38a17ad06b34/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/7a43a2a27fe544c8b2350f1a478f38a17ad06b34/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/7a43a2a27fe544c8b2350f1a478f38a17ad06b34/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/eb7a34d344f5b6fc3b3cefeeb76bede6183b89fd/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/eb7a34d344f5b6fc3b3cefeeb76bede6183b89fd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/eb7a34d344f5b6fc3b3cefeeb76bede6183b89fd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/7a43a2a27fe544c8b2350f1a478f38a17ad06b34/))
+([permalink](https://opennaps.github.io/malawi/v/eb7a34d344f5b6fc3b3cefeeb76bede6183b89fd/))
 was automatically generated
-from [opennaps/malawi@7a43a2a](https://github.com/opennaps/malawi/tree/7a43a2a27fe544c8b2350f1a478f38a17ad06b34)
+from [opennaps/malawi@eb7a34d](https://github.com/opennaps/malawi/tree/eb7a34d344f5b6fc3b3cefeeb76bede6183b89fd)
 on March 2, 2021.
 </em></small>
 
@@ -1557,7 +1557,7 @@ country as a whole. The project development plans will take into consideration o
 Sendai Framework and Country GCF programmes, and inclusion of cross-cutting factors such as gender, vulnerable groups, policy and legislative reforms, and 
 knowledge and capacity building at individual, community, institutional and systemic levels. 
 
-_**Criteria_**:
+**_Criteria_**:
 
 | **Criteria**                           | **Indicator**     | **States/Score**  | **Values**  | **Observations**                                                                                                                         |
 |----------------------------------------|-------------------|-------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1596,7 +1596,8 @@ farm inputs and access to loans; enhancing the infrastructure for and management
 increasing the reach of extension services and training for farmers; access to drought and flood early warning information; provision of storage facilities for 
 various crop and livestock products, and; creation of local markets through establishment of more agricultural companies. 
 
-3. Forecasting and early warning systems for droughts and floods should be in place at sub-national scale and relevant for adoption and application in the different systems and increase funding to the national disaster risk management programs. 
+3. Forecasting and early warning systems for droughts and floods should be in place at sub-national scale and relevant for adoption and application in the 
+different systems and increase funding to the national disaster risk management programs. 
 
 4. Promotion of alternative economic opportunities for lakeshore people to alleviate fishing pressure and enhanced collaboration between the fishermen and the 
 department of fisheries to promote sustainable fish utilization. 
@@ -1605,7 +1606,9 @@ department of fisheries to promote sustainable fish utilization.
 sources like solar energy to diversify the energy mix and reduce environmental pressures from woodfuel demand; expand and reinforce water storage in dams by 
 planting trees around dams; relocate settlement areas demarcated for dam construction, and; ensure that dams comply with all environmental regulations and laws. 
 
-6. In order to ensure rural and urban water supplies under climate change, the following should be undertaken: restoration of the Lilongwe River catchment and dam catchments through re-afforestation; expansion of the Lunyangwa and Kamuzu dams; expansion of the water transmission and distribution networks; reduction of non-revenue water, and; exploration for new water sources such as the Likhubula project which extracts water from Mulanje mountain. 
+6. In order to ensure rural and urban water supplies under climate change, the following should be undertaken: restoration of the Lilongwe River catchment and 
+dam catchments through re-afforestation; expansion of the Lunyangwa and Kamuzu dams; expansion of the water transmission and distribution networks; reduction 
+of non-revenue water, and; exploration for new water sources such as the Likhubula project which extracts water from Mulanje mountain. 
 
 7. Climate proof supply distribution systems (water/power), waste management systems (sanitation) and transport systems (roads, railways, bridges) and improve 
 the connectivity within the different systems. 
@@ -1615,8 +1618,8 @@ regular treatment of solid and liquid waste from industries and biomedical facil
 of the sewer systems to detect leakages and prevent blockages and obstruction; constructing landfills in areas less prone to floods, and; carrying out civic 
 education of the public to change their attitudes such as towards waste segregation and recycling.  
 
-9. Improve general population health through provision of sanitation and hygiene infrastructure and awareness creation, increasing the number of health workers, and relocation of people from flood prone areas. 
- 
+9. Improve general population health through provision of sanitation and hygiene infrastructure and awareness creation, increasing the number of health workers, 
+and relocation of people from flood prone areas. 
 
 
 ## Implementation Strategy for the NAP

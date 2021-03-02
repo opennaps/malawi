@@ -5,7 +5,7 @@ Adeloye
 Adhikari
 ADMARC
 AfCFTA
-Agri
+agri
 Agric
 agro
 agroecological
@@ -38,7 +38,7 @@ capita
 CCA
 centre
 centres
-Chambo
+chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -53,7 +53,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-Covid
+COVID
 crassipes
 CRWB
 Dauenhauer
@@ -107,7 +107,7 @@ homebound
 Hoppe
 HSSP
 hydrometeorology
-hydropower
+Hydropower
 IACADES
 IBA
 ICT
@@ -159,14 +159,14 @@ Malunga
 Mangelsdorf
 Mapulanga
 Masi
-Masterplan
+masterplan
 masterplans
 maximise
 MCCCI
 Mchenga
 MDAs
 MDGS
-Megasystem
+megasystem
 MF
 MGDS
 micronutrient
@@ -174,7 +174,7 @@ minimise
 miombo
 mmap
 MoA
-modelling
+Modelling
 MoECCM
 MoIWD
 montane
@@ -225,7 +225,7 @@ organisations
 orographic
 overexploitation
 overfished
-Overfishing
+overfishing
 overharvesting
 Pakhomo
 Pannar
@@ -297,7 +297,7 @@ unaffordable
 UNAIDS
 UNCTAD
 UNDAF
-undernutrition
+Undernutrition
 UNDP
 UNFCC
 UNFCCC
