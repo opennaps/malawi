@@ -19,7 +19,7 @@ evapotranspiration
 FISP
 GCF
 GEF
-GOM
+GoM
 HDI
 hydropower
 IACADES
