@@ -5,7 +5,7 @@ Adeloye
 Adhikari
 ADMARC
 AfCFTA
-Agri
+agri
 Agric
 agro
 agroecological
@@ -16,7 +16,7 @@ alkalization
 Amadu
 amidst
 analyse
-Analysed
+analysed
 Angalia
 annum
 anthropogenic
@@ -31,12 +31,14 @@ Bezner
 bilharzia
 Brummet
 Bua
+Bushfires
 BWB
 Cacho
 capita
 CCA
 centre
-chambo
+centres
+Chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -51,7 +53,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-COVID
+Covid
 crassipes
 CRWB
 Dauenhauer
@@ -60,7 +62,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-downscaled
+Downscaled
 DPRA
 DRR
 Dwangwa
@@ -92,7 +94,7 @@ geospatial
 GHG
 GINI
 Godwell
-GoM
+GOM
 habouring
 Haggblade
 Hanmer
@@ -102,7 +104,8 @@ HDI
 Holm
 Hoppe
 HSSP
-Hydropower
+hydrometeorology
+hydropower
 IACADES
 IBA
 ICT
@@ -139,6 +142,7 @@ Liwonde
 loadings
 lockdowns
 Lujeri
+Lunyangwa
 LWB
 Madsen
 Majete
@@ -213,7 +217,7 @@ organisations
 orographic
 overexploitation
 overfished
-overfishing
+Overfishing
 overharvesting
 Pakhomo
 Pannar
@@ -234,6 +238,7 @@ Programme’s
 PWP
 quartile
 rainfed
+Rangelands
 RCP
 RCPs
 RISDP
@@ -251,10 +256,10 @@ schistosomiasis
 SCT
 SDG
 SDGs
-Sectoral
+sectoral
 siltation
 SIMLESA
-socio
+Socio
 Songwe
 Soya
 spatiotemporal
@@ -263,6 +268,7 @@ Spodoptera
 spp
 SPS
 STIs
+Stressors
 subnational
 subsector
 summarised
