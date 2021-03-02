@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/66fed0f88e132eaae850423dcdd16e90c61be17e/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/66fed0f88e132eaae850423dcdd16e90c61be17e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/66fed0f88e132eaae850423dcdd16e90c61be17e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/b35b4400f67f57f0822e6337fc563aa50ac8d590/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/b35b4400f67f57f0822e6337fc563aa50ac8d590/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/b35b4400f67f57f0822e6337fc563aa50ac8d590/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/66fed0f88e132eaae850423dcdd16e90c61be17e/))
+([permalink](https://opennaps.github.io/malawi/v/b35b4400f67f57f0822e6337fc563aa50ac8d590/))
 was automatically generated
-from [opennaps/malawi@66fed0f](https://github.com/opennaps/malawi/tree/66fed0f88e132eaae850423dcdd16e90c61be17e)
+from [opennaps/malawi@b35b440](https://github.com/opennaps/malawi/tree/b35b4400f67f57f0822e6337fc563aa50ac8d590)
 on March 2, 2021.
 </em></small>
 
@@ -578,7 +578,175 @@ decades. More than 47 natural disasters were recorded in the last three decades 
 storms. In these natural disasters, a total of 2,775 people were killed with an average of 90 people killed per year. Most of these (60%) died due to epidemics 
 (National Water Resources Masterplan- Part II masterplan). Malaria is the most common disease in the lake areas, followed by respiratory infections, diarrhea, 
 anemia, and bilharzia/schistosomiasis. HIV/AIDS and other sexually transmitted infections (STIs) are also common. Research conducted by Madsen et al. between 
-1998 and 2007 found a high prevalence of schistosomiasis.
+1998 and 2007 found a high prevalence of schistosomiasis in communities living along the shores of Lake Malawi. They found that the prevalence of urinary 
+schistosomiasis ranged from 10.2% to 26.4% in inland villages and from 21.0% to 72.7% in lakeshore villages. Infection rates were higher among school age 
+children ranging from 15.3% to 57.1% in inland schools and from 56.2% to 94.0% in lakeshore schools. The HIV infection rate in Malawi as a whole was 10.3% in 
+2010 (UNAIDS) (USAID, 2015).
+
+**Economic context:** Agriculture is central to Malawi’s economy, contributing nearly 40 percent of GDP and roughly 90 percent of the country’s export earnings 
+(USAID, 2017a). Maize is a dominant crop in Malawi, accounting for 28.8 percent of agricultural GDP. Groundnut is an important smallholder food and cash crop in 
+Malawi contributing 1.6 percent to agricultural GDP. Soya and sunflower account for 13 percent of that sector’s total intermediate input expenditure, and account 
+for 1.9 percent of agricultural GDP (Aragie et al. 2018). The agriculture sector is the driver of Malawi’s economy and provides employment to 85% of the 
+workforce, and contributes 85 to 90% of foreign exchange earnings and 60 to 70% of raw materials for the manufacturing sector (UNFCCC, 2006). Over half (51%) of 
+Malawi's predominantly rural (86%) population live below the national poverty line, most (85%) dependent on agriculture for livelihood, and on only $320 United 
+States Dollars (USD) per capita per year (Chinsinga, Chasukwa and Naess 2012; World Bank 2014; Zulu 2017). Average annual headline inflation in 2016 stood at 
+22.6%, slightly lower than the 2015 figure of 21.0%, with rising food inflation as the main driver. Power generation reduced by 30% due to low levels in the 
+Shire River affecting economic activities in sectors such as manufacturing, which experienced low capacity utilization. Malawi’s overall GDP grew at only 2.7% in 
+2016, down from 2.9% in 2015. According to the poverty statistics for 2010, 70.9% of the people in Malawi are living on less than $1.90 a day. The people living 
+below the national poverty line are 50.7% and the country inequality trend (GINI Index) stands at 46.1 (Irish Aid 2018). According to the United Nations 
+Development Program’s Human Development Report for 2014, about 62% of the population in Malawi lives on less than US $1.25 a day and 89% lives below the US $2 a 
+day threshold (USAID, 2015). Tobacco is Malawi’s largest export cash crop, accounting for over half of export earnings, followed by tea and sugar (Purchase from 
+Africans for Africa. n.d.; FAO, n.d.; and World Bank, 2012). Fishing contributes about 4% to Malawi’s Domestic Product (GDP) and accounts for 60–70 percent of 
+Malawians’ animal protein intake. An estimated 1.6 million Malawians derive at least some income from fishing, fish processing, marketing and trading, boat and 
+gear-making, and allied industries (Brummet and Noble, 1995; Andrew et al. 2003). Wildlife is a valuable tourism resource as it can contribute significantly to 
+incomes and employment. The sector, however, faces a number of challenges including poaching, poor supporting infrastructure, and low community participation in 
+wildlife conservation (USAID, 2013).
+
+Malawi is one of the poorest countries in the world, ranked 170 of 188 countries on the global United Nations Development Programme’s HDI. More than 70% of the 
+population lives below the international poverty line of USD 1.90 per capita per day and GDP per capita is just USD 372 (2015). Both inequality and poverty rates 
+are high. About 20.7% of the people are so poor that they cannot afford to eat a minimum daily recommended food intake, and at least 37% of children under five 
+are chronically undernourished and stunted (low weight for age). Malawi’s wealth per capita, USD 8,409 in 2014, is much lower than the average for other low-
+income countries (USD 13,629) or for Sub-Saharan Africa as a whole (USD 25,562) (Hughes et al. 2019). Real gross domestic product (GDP) grew by 5.7% in 2014, but 
+slowed down to 2.5% in 2016 after floods in early 2015 followed by two consecutive years of drought, which has adversely affected the performance of agriculture, 
+which accounts for about a third of the country’s GDP. The country has a GDP of US$ 6.4 billion (2015 data), and per capita income (2015 data) is US$ 34011. 
+Malawi is a low-income country with 74% of Malawians earning US$ 1.25 per day or less. Using national poverty headcount, approximately 50.7% of the population 
+live below the national poverty line. About 24.5% are considered ultra-poor, meaning that they cannot afford to meet the minimum standard of the daily 
+recommended food requirement. Levels of chronic malnutrition are very high at 42%, wasting is at 4% and underweight prevalence is at 13%. The 2015 flood damage 
+cost event estimated at US$ 335 million, equivalent to approximately 5% of GDP. Land degradation is estimated to cost the equivalent of 5.3% of GDP each year 
+with soil degradation a significant factor that contributes between 4 and 25% to the loss of agricultural yields in Malawi (Masi, 2017).
+
+Lake Malawi provides the main source of the country’s fish production. Other important sources include Lake Chilwa, Lake Malombe and the Elephant Marsh. The 
+sector has experienced considerable decline of commercially important fish species like Chambo (Oreochromis spp.) from around 30,000 Mt a year in the late 20th 
+century to about 2,000 Mt annually in recent years from Lake Malawi caused by overfishing and climatic influences which result in reduced water levels and 
+disrupt fish breeding and nursery sites. Weak governance capacity to enforce fisheries regulations, and control of illegal fishing and destruction of habitats, 
+contribute to reduced abundance of fish stocks and fisheries resources in Malawi (Masi, 2017).  The National Human Development Report of 2001 ranks Malawi as one 
+of the lowest in terms of Human Development Index (HDI), placing it at number 163 out of 173 countries in the world (United Nations Development Programme 
+(UNDP)/Malawi Government (MG), 2001). It is one of the poorest countries in Africa, with about 65% of its population living below the poverty line in 1998, and 
+29% living in extreme poverty (MG, 1995, 2000; MoA, 2005; UNFCCC 2006). The manufacturing sector currently makes a small contribution to national income (12% of 
+GDP) and employment and there is limited industrial diversification. In addition, there are weak inter and intra-industry linkages (Malawi Vision 2020). 
+
+**Technological context:** It is the aspirations of Malawians through their Malawi’s Vision 2020 to have a science and technology-driven economy. A developing 
+country such as Malawi needs information technology to achieve development in all spheres of human endeavor. However, promoting the use of IT is the main 
+challenge (Malawi Vision 2020). Greater use of geospatial technologies such as aerial surveys, satellite monitoring, and drone surveys could help address the 
+limited human resources at field levels. Mobile phone technologies are rapidly improving communication and services with growing opportunities for informing 
+Malawians on environmental issues (Hughes et al. 2019). The media plays a key role in raising public awareness on climate change issues especially in informing 
+rural communities who suffer most due to adverse impacts of climate change due to their low adaptive capacity (Ministry of Environment and Climate Change 
+Management Environmental Affairs Department, 2013-2018). The systematic use of new cell phone technologies, social media, video documentaries, radio and TV 
+programs, and other information-communication technologies can greatly accelerate the widespread knowledge of proven restoration interventions (Ministry of 
+Natural Resources, Energy and Mining, n.d.). 
+
+### Legal frameworks 
+The vision of Malawi’s NAP aligns with the Malawi Growth and Development Strategy III (2017-2022). MGDS III is anchored in Water Development, Agriculture and 
+Climate Change. The NAP process will address climate change management through improved community resilience to climate change through enhanced agricultural 
+production, infrastructure development and disaster risk management.  The MGDS III adaptation strategies for Agriculture, Water Development and Climate Change 
+Management include increased agricultural production and productivity, increased land under irrigation; increased agricultural diversification, enhanced 
+agricultural risk management, enhanced integrated water resources management at all levels, and improved weather and climate monitoring for early warning, 
+preparedness and timely response. These will be the strategies the NAP will also prioritize. The MGDS III goals are premised on Malawi's long term development 
+aspirations well laid out in Vision 2020.Malawi has also prioritized climate change, environment and natural resources management among the priorities within 
+priorities of the Malawi Growth and Development Strategy (MGDS II). Government of Malawi has also developed the National Climate Change Management Policy (NCCMP) 
+whose goal is to promote climate change adaptation, mitigation, technology transfer and capacity building for sustainable livelihoods through Green Economy 
+measures for Malawi. The policy outlines six priority areas for climate change management in the country which include: Climate change adaptation, Climate change 
+mitigation, Capacity building, education, training and awareness, Research, technology development and transfer, and systematic observation, Climate change 
+financing, Cross-cutting issues like gender consideration, population dynamics and HIV and AIDS.  
+
+The NCCMP policy statements are:  
+
+1. Reduce vulnerabilities of populations in Malawi and promote community and ecosystem resilience to the impacts of climate change; 
+
+2. Ensure that women, girls and other vulnerable groups are engaged and involved in planning and implementing climate change adaptation interventions; and 
+
+3. Ensure that communities are able to adapt to climate change by promoting climate change adaptive development in the long term. 
+
+4. Promote the reduction of greenhouse gas emissions; and 
+
+5. Enhance carbon sinks through re-afforestation and sustainable utilization of forest resources. 
+
+6. Build capacity in all sectors and at all levels in climate change to attain socio-economic development utilizing the principles of green economy; and 
+
+7. Address capacity gaps on investment in skills and capabilities for negotiations, mechanisms for reducing emissions while supporting prudent environmental 
+management and sustainable economic growth.  
+
+8. Enhance research, technology and systematic observation for climate change management, supported by appropriate capacity development and dedicated financing 
+
+9. Encourage resource mobilization and commitment of government for the prioritized technologies. 
+
+10. Enhanced financing for implementation and coordination of climate change management activities through increased national budgetary allocation, establishment 
+of a Climate Change Management Fund, improved access to international climate financing (both multilateral and bilateral) and private sector investments. 
+
+11. Mainstream gender and issues affecting the disadvantaged groups into all climate change strategies, plans and programmes. 
+
+12. Integrate population issues into climate change management in the development agenda through an integrated approach which would reduce poverty, protect 
+natural resources and reduce inequality. 
+
+13. Incorporate HIV and AIDS as well as gender considerations in all climate change interventions including adaptation, mitigation, capacity building and 
+technology development and transfer. 
+
+The Government of Malawi through their Vision 2020 and the Malawi Constitution 1995 has put in place a series of legislative sectoral frameworks and strategies 
+to integrate environment and climate change management in socio-economic development activities. These include:  
+
+- i. The Malawi Growth Development Strategies; 
+
+- ii. United Nations Development Assistance Framework for Malawi (UNDAF); 
+
+- iii. National Strategy for Sustainable Development 2004; 
+
+- iv. National Environmental Policy (NEP) 2004;  
+
+- v. National Forestry Policy of Malawi, 1996;  
+
+- vi. National Land Resource Management Policy and Strategies (2000);  
+
+- vii. Wildlife Policy (2000);  
+
+- viii. Malawi Irrigation Policy and Development Strategy (2000);  
+
+- ix. National Fisheries and Aquaculture Policy (2001);  
+
+- x. National Land Policy (2002); 
+
+- xi. National Environmental Action Plan 2002;  
+
+- xii. National Climate Change Investment Plan (2013);  
+
+- xiii. National HIV and AIDS Policy, 2003;  
+
+- xiv. Malawi Energy Policy (2003);  
+
+- xv. National Land Use Planning and Management Policy, 2005;  
+
+- xvi. Food Security Policy (2006); 
+
+- xvii. National Water Policy (2005);  
+
+- xviii. Mines and Minerals Policy (2013); 
+
+- xix. National Transport Policy (2015);  
+
+- xx. National Construction Industry Policy (2015); 
+
+- xxi. Water Resources Act (2013);  
+
+- xxii. Mines and Minerals Act (1981);  
+
+- xxiii. Disaster Preparedness and Relief Act (DPRA) (1991);  
+
+- xxiv. Waterworks Act (1995);  
+
+- xxv. Environment Management Act (1996);  
+
+- xxvi. Forestry Act (1997);  
+
+- xxvii. Fisheries Conservation and Management Act (1997); 
+
+- xxviii. Road Traffic Act (1997);  
+
+- xxix. Local Government Act (1998);  
+
+- xxx. Energy Regulation Act (2004);  
+
+- xxxi. National Parks and Wildlife Act (2004),  
+
+- xxxii. Gender Equality Act (2013). 
 
 
 ## Vision, Goals and Objectives of the NAP
