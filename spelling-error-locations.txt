@@ -143,7 +143,7 @@ content/04.chapter3-Approach-and-Methodologies.md:137:SCCF
 content/04.chapter3-Approach-and-Methodologies.md:138:lockdowns
 content/04.chapter3-Approach-and-Methodologies.md:139:COVID
 content/04.chapter3-Approach-and-Methodologies.md:144:MDGS
-content/06.chapter5-Vision-Goals-Objecives-of-the-NAP.md:3:xxxx
+content/06.chapter5-Vision-Goals-Objecives-of-the-NAP.md:4:socio
 content/08.chapter7-National-Adaptation-Priorities.md:3:xxxx
 content/08.chapter7-National-Adaptation-Priorities.md:4:xxxx
 content/10.chapter09-Alignment-with-the-GCF-Country-Programme.md:1:GCF

@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/3d77f1e8bcd4e4cf601aa9fa65b5434afdd1819e/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/3d77f1e8bcd4e4cf601aa9fa65b5434afdd1819e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/3d77f1e8bcd4e4cf601aa9fa65b5434afdd1819e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/806fc3fe857f4a8f98ed92c12482a44bd7d5d9c7/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/806fc3fe857f4a8f98ed92c12482a44bd7d5d9c7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/806fc3fe857f4a8f98ed92c12482a44bd7d5d9c7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/3d77f1e8bcd4e4cf601aa9fa65b5434afdd1819e/))
+([permalink](https://opennaps.github.io/malawi/v/806fc3fe857f4a8f98ed92c12482a44bd7d5d9c7/))
 was automatically generated
-from [opennaps/malawi@3d77f1e](https://github.com/opennaps/malawi/tree/3d77f1e8bcd4e4cf601aa9fa65b5434afdd1819e)
+from [opennaps/malawi@806fc3f](https://github.com/opennaps/malawi/tree/806fc3fe857f4a8f98ed92c12482a44bd7d5d9c7)
 on March 2, 2021.
 </em></small>
 
@@ -504,7 +504,22 @@ xxx
 
 ## Vision, Goals and Objectives of the NAP
 
-xxxx
+### Vision for Adaptation for the Country
+The vision is “a country that is resilient to adverse socio-economic impacts of climatic change”.
+
+### Goals and Objectives of the NAP
+The main goal and objectives of the Malawi NAP, in line with the country’s National Climate Change Management Policy, are:
+
+**_Goal_**
+- create an enabling policy and legal framework for a pragmatic, coordinated and harmonized approach to climate change management
+
+**_Objectives_**
+
+- Effectively manage the impacts of climate change through interventions that build and sustain the social and ecological resilience of all Malawians;
+
+- Integrate climate change into planning, development, coordination and monitoring of key relevant sectors in a gender sensitive manner; and
+
+- Integrate cross-cutting issues into climate change management through an appropriate institutional framework
 
 
 ## Climate Change Adaptation Assessment

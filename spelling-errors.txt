@@ -9,7 +9,7 @@ centre
 Chikwawa
 Chilwa
 Contrastingly
-Covid
+COVID
 diarrhoea
 downscaled
 DRR
@@ -19,7 +19,7 @@ evapotranspiration
 FISP
 GCF
 GEF
-GoM
+GOM
 HDI
 hydropower
 IACADES
@@ -68,7 +68,7 @@ schistosomiasis
 SCT
 SDG
 SDGs
-sectoral
+Sectoral
 siltation
 socio
 subnational
