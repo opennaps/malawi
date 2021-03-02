@@ -54,7 +54,7 @@ parastatals
 peri
 Phalombe
 prioritise
-Programme
+programme
 programmes
 Programme’s
 PWP
@@ -84,5 +84,5 @@ USD
 Vison
 wellbeing
 workplans
-XXXX
+xxxx
 XXXXXXXX
