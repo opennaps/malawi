@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/0a50b825f90c3e844fd21d90115dd14e35a8d120/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/0a50b825f90c3e844fd21d90115dd14e35a8d120/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/0a50b825f90c3e844fd21d90115dd14e35a8d120/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/d5bb78fed2b075eb60aa8c84737603f62002d3f0/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/d5bb78fed2b075eb60aa8c84737603f62002d3f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/d5bb78fed2b075eb60aa8c84737603f62002d3f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/0a50b825f90c3e844fd21d90115dd14e35a8d120/))
+([permalink](https://opennaps.github.io/malawi/v/d5bb78fed2b075eb60aa8c84737603f62002d3f0/))
 was automatically generated
-from [opennaps/malawi@0a50b82](https://github.com/opennaps/malawi/tree/0a50b825f90c3e844fd21d90115dd14e35a8d120)
+from [opennaps/malawi@d5bb78f](https://github.com/opennaps/malawi/tree/d5bb78fed2b075eb60aa8c84737603f62002d3f0)
 on March 2, 2021.
 </em></small>
 
@@ -449,7 +449,7 @@ In addition, and following the experiences gathered from the implementation of t
 These were supported with emerging new data from the published literature. The assessment of these documents together included:
 
 a. Process of identification/stocktaking of desirable and available information
-  <p> i. Climate and socio-economic data and information
+  <li>i. Climate and socio-economic data and information</li> 
   <p> ii. Current assessments: Exploring possibilities for further assessments
   <p> iii. Policies, strategies, plans
   <p> iv. Existing initiatives on adaptation
