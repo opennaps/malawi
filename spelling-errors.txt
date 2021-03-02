@@ -8,7 +8,7 @@ AfCFTA
 AfDB
 Agri
 Agric
-Agro
+agro
 agroecological
 aimsexpressed
 Ajefu
@@ -17,7 +17,7 @@ alkalization
 Amadu
 amidst
 analyse
-analysed
+Analysed
 Angalia
 annum
 anthropogenic
@@ -37,7 +37,7 @@ BWB
 Cacho
 capita
 CCA
-Centre
+centre
 centres
 chambo
 Chasukwa
@@ -55,7 +55,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-Covid
+COVID
 crassipes
 CRWB
 Dauenhauer
@@ -65,7 +65,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-Downscaled
+downscaled
 DPRA
 DRR
 Dryland
@@ -82,7 +82,7 @@ ENRM
 enrolment
 ENSO
 ERASP
-Eutrophication
+eutrophication
 evapotranspiration
 famers
 FAO
@@ -104,7 +104,7 @@ GFDRR
 GHG
 GINI
 Godwell
-GoM
+GOM
 habouring
 Haggblade
 Hanmer
@@ -117,7 +117,7 @@ Hoppe
 HSSP
 hydrological
 hydrometeorology
-hydropower
+Hydropower
 IACADES
 IAP
 IBA
@@ -173,7 +173,7 @@ Mangelsdorf
 Mangochi
 Mapulanga
 Masi
-masterplan
+Masterplan
 masterplans
 maximise
 MCCCI
@@ -245,7 +245,7 @@ organisations
 orographic
 overexploitation
 overfished
-Overfishing
+overfishing
 overharvesting
 Pakhomo
 Pannar
@@ -261,7 +261,7 @@ PLWAs
 PPCR
 precarity
 prioritise
-Programme
+programme
 programmes
 Programme’s
 PWP
@@ -342,5 +342,5 @@ wellbeing
 WFP
 woodfuel
 workplans
-XXXX
+xxxx
 XXXXXXXX

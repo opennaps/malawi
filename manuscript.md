@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/6f284e424e1e20a15adf384da0679fe9fbbe36d9/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/6f284e424e1e20a15adf384da0679fe9fbbe36d9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/6f284e424e1e20a15adf384da0679fe9fbbe36d9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/bc49e5c39b202a3b1d378875bfe75321a81e1524/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/bc49e5c39b202a3b1d378875bfe75321a81e1524/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/bc49e5c39b202a3b1d378875bfe75321a81e1524/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/6f284e424e1e20a15adf384da0679fe9fbbe36d9/))
+([permalink](https://opennaps.github.io/malawi/v/bc49e5c39b202a3b1d378875bfe75321a81e1524/))
 was automatically generated
-from [opennaps/malawi@6f284e4](https://github.com/opennaps/malawi/tree/6f284e424e1e20a15adf384da0679fe9fbbe36d9)
+from [opennaps/malawi@bc49e5c](https://github.com/opennaps/malawi/tree/bc49e5c39b202a3b1d378875bfe75321a81e1524)
 on March 2, 2021.
 </em></small>
 
@@ -1738,7 +1738,17 @@ xxx
 
 ## Monitoring and evaluation of adaptation actions and process
 
-xxx
+The guiding framework for monitoring and evaluation is: 
+
+- a. Monitoring and evaluation system (mapped to goals and objectives, and targets where applicable; 5 types of metrics: inputs, process, output, outcome, impact). Indicators for each programme/project to be identified to track outcomes. 
+
+- b. Reporting on progress on NAPs under the UNFCCC (through National Communications/Adaptation Communications) 
+
+- c. Link to the NDC 
+
+- d. Reporting and outreach at the national level 
+
+- e. Use of the PEG M&E tool9 to monitor NAP process. 
 
 
 ## Reporting
