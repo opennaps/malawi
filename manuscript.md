@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/f2be5bdd4a78fbc4c1a551e0a3215cd975008455/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/f2be5bdd4a78fbc4c1a551e0a3215cd975008455/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/f2be5bdd4a78fbc4c1a551e0a3215cd975008455/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/46754f8488be0cc3d0317d1f8ffc697b93c1838a/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/46754f8488be0cc3d0317d1f8ffc697b93c1838a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/46754f8488be0cc3d0317d1f8ffc697b93c1838a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/f2be5bdd4a78fbc4c1a551e0a3215cd975008455/))
+([permalink](https://opennaps.github.io/malawi/v/46754f8488be0cc3d0317d1f8ffc697b93c1838a/))
 was automatically generated
-from [opennaps/malawi@f2be5bd](https://github.com/opennaps/malawi/tree/f2be5bdd4a78fbc4c1a551e0a3215cd975008455)
+from [opennaps/malawi@46754f8](https://github.com/opennaps/malawi/tree/46754f8488be0cc3d0317d1f8ffc697b93c1838a)
 on March 2, 2021.
 </em></small>
 
@@ -790,6 +790,17 @@ to integrate environment and climate change management in socio-economic develop
 | **Rural Electrification<br>Act**                            | 2004     | This act makes provision for the promotion, funding, management and regulation of<br>rural electrification. Specific, more favourable rules are laid out for renewable<br>energy resources, including in terms of finance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Disaster Preparedness<br>and Relief Act<br>(Cap. 33:05)** | 1992     | This Act makes provision for the prevention of disasters in Malawi and for disaster<br>preparedness and disaster mitigation. There shall be a Commissioner for Disaster<br>Preparedness and Relief who shall, among other things: supervise the establishment<br>of civil protection organizations and civil protection areas and control and direct<br>personnel, materials and services for the purposes of this Act. The Act provides<br>for the establishment of the National Disaster Preparedness and Relief Committee<br>of Malawi.                                                                                                                                                                                                                                                                         |
 | **Wildlife Policy**                                         | 2000     | The policy embraces the following objectives: Ensure adequate protection of<br>representative ecosystems and their biological diversity by promoting and adopting<br>appropriate land management practices that are in line with sustainable utilization<br>considerations; Create public awareness and understanding on the need for wildlife<br>conservation and management and also their relationship to other land use issues;<br>Create a conducive environment for wildlife-based enterprises; Facilitate development<br>of necessary legislation and enforcement mechanisms in order to eliminate illegal<br>wildlife use; and Develop a cost effective legal, administrative and institutional<br>framework for managing wildlife resources without compromising the resources’<br>ecological attributes. |
+
+### Institutional arrangements for climate change adaptation 
+Malawi has several existing institutional structures to support climate change mitigation and adaptation policies (Malawi & Environmental Affairs Department, 
+2016). The Malawi Constitution explicitly calls for environmental support, and the Malawi government has addressed climate change at the national, ministerial 
+and departmental level (Amadu et al., 2020). Coordination between government agencies is a significant challenge for implementing the climate change policy 
+components since climate change is a cross-cutting issue affecting most sectors, such as agriculture, human health, energy, fisheries, wildlife, water, forestry 
+and gender (Hughes et al., 2019). Table 3 presents the evolution of the climate change agenda.
+
+Table 3. Evolution of the national climate change agenda in Malawi: policies, programmes, institutions and linkage to political leadership [source] 
+
+![image](https://user-images.githubusercontent.com/64316315/109633567-8722d200-7b48-11eb-88fb-1f75badbe798.png)
 
 
 ## Vision, Goals and Objectives of the NAP

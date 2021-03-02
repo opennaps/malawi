@@ -2,6 +2,7 @@ agro
 aimsexpressed
 alia
 alkalization
+Amadu
 analyse
 analysed
 anthropogenic
@@ -22,7 +23,7 @@ Chinsinga
 Chiuta
 COMESA
 Contrastingly
-COVID
+Covid
 diarrhoea
 DoDMA
 downscaled
@@ -44,7 +45,7 @@ GEF
 geospatial
 GHG
 GINI
-GOM
+GoM
 HDI
 hydropower
 IACADES
@@ -113,7 +114,7 @@ Phalombe
 PLWAs
 PPCR
 prioritise
-Programme
+programme
 programmes
 Programme’s
 PWP
