@@ -5,7 +5,7 @@ Adeloye
 Adhikari
 ADMARC
 AfCFTA
-agri
+Agri
 Agric
 agro
 agroecological
@@ -16,7 +16,7 @@ alkalization
 Amadu
 amidst
 analyse
-analysed
+Analysed
 Angalia
 annum
 anthropogenic
@@ -38,7 +38,7 @@ capita
 CCA
 centre
 centres
-chambo
+Chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -53,7 +53,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-COVID
+Covid
 crassipes
 CRWB
 Dauenhauer
@@ -62,7 +62,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-downscaled
+Downscaled
 DPRA
 DRR
 Dwangwa
@@ -75,7 +75,7 @@ endemism
 ENRM
 enrolment
 ENSO
-eutrophication
+Eutrophication
 evapotranspiration
 famers
 FAO
@@ -91,6 +91,7 @@ GBI
 GCF
 GEF
 geospatial
+GFDRR
 GHG
 GINI
 Godwell
@@ -102,6 +103,7 @@ Haug
 Hazell
 HDI
 Holm
+homebound
 Hoppe
 HSSP
 hydrometeorology
@@ -115,16 +117,19 @@ iFrame
 IHS
 Illovo
 Incentivized
+inclusivity
 INDC
 Intercomparison
 interlinkages
 intra
 ITCZ
 janeroe
+JICA
 JMP
 johndoe
 Jørstad
 Kampanje
+Kamuzu
 Karonga
 karongae
 Kasungu
@@ -136,6 +141,7 @@ LDCF
 LDCs
 Lengwe
 Likangala
+Likhubula
 Limuwa
 Linthipe
 Liwonde
@@ -161,6 +167,7 @@ Mchenga
 MDAs
 MDGS
 Megasystem
+MF
 MGDS
 micronutrient
 minimise
@@ -178,6 +185,7 @@ Muchuru
 Mulanje
 MUSECO
 Mussa
+Mwanaleza
 MWK
 Mzimba
 Mzuzu
@@ -199,6 +207,7 @@ Niño
 Nkhatabay
 Nkhotakota
 NLGFC
+nonfarm
 NRWB
 Nsanje
 NsanjeMalawi
@@ -231,7 +240,7 @@ PLWAs
 PPCR
 precarity
 prioritise
-Programme
+programme
 programmes
 Programme’s
 PWP
@@ -240,6 +249,7 @@ rainfed
 Rangelands
 RCP
 RCPs
+reputational
 RISDP
 riverine
 roadmap
@@ -258,6 +268,7 @@ SDGs
 sectoral
 siltation
 SIMLESA
+Sinay
 Socio
 Songwe
 Soya
@@ -273,6 +284,7 @@ subsector
 summarised
 suppled
 sustainably
+synchrony
 synthesised
 TBT
 Thuma
@@ -281,6 +293,7 @@ transboundary
 transformative
 translocated
 UMFULA
+unaffordable
 UNAIDS
 UNCTAD
 UNDAF
@@ -300,6 +313,7 @@ waterflow
 waterlogging
 Webersik
 wellbeing
+woodfuel
 workplans
 XXXX
 XXXXXXXX
