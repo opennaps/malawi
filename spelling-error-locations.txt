@@ -687,7 +687,6 @@ content/07.chapter6-Climate-Change-Adaptation-Assessment.md:554:NRWB
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:555:BWB
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:555:LWB
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:562:megasystem
-content/07.chapter6-Climate-Change-Adaptation-Assessment.md:570:managemen
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:570:megasystem
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:582:utile
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:604:undernutrition

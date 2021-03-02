@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/malawi/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/malawi/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/malawi/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/fcbefe3317dd11aec266695e33dc4ecafb393ac1/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/fcbefe3317dd11aec266695e33dc4ecafb393ac1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/fcbefe3317dd11aec266695e33dc4ecafb393ac1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/malawi/v/acd76e98958a8260c07568e19b1b9bf3c951d885/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/malawi/v/acd76e98958a8260c07568e19b1b9bf3c951d885/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/malawi/v/acd76e98958a8260c07568e19b1b9bf3c951d885/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/malawi/v/fcbefe3317dd11aec266695e33dc4ecafb393ac1/))
+([permalink](https://opennaps.github.io/malawi/v/acd76e98958a8260c07568e19b1b9bf3c951d885/))
 was automatically generated
-from [opennaps/malawi@fcbefe3](https://github.com/opennaps/malawi/tree/fcbefe3317dd11aec266695e33dc4ecafb393ac1)
+from [opennaps/malawi@acd76e9](https://github.com/opennaps/malawi/tree/acd76e98958a8260c07568e19b1b9bf3c951d885)
 on March 2, 2021.
 </em></small>
 
@@ -1392,8 +1392,8 @@ the country is exerting huge pressure on biomass energy sources like forests. Th
 increased the frequency of droughts also poses a threat to energy needs in the country. Droughts imply that the regeneration potential of trees is lowered due to 
 inadequate water. Further, droughts result in lower water levels in rivers consequently affecting hydro-power production. 
 
-#### Waste managemen megasystem
-**Subsystems: Urban waste management system - Landfills; Medical waste management; Sewage waste management systems **
+#### Waste management megasystem
+**Subsystems: Urban waste management system - Landfills; Medical waste management; Sewage waste management systems**
 
 **Urban Waste Management System**
 Increased human population has led to an increase in waste generated, for instance Lilongwe city accumulates over 200 tons of waste per day.  These wastes are 

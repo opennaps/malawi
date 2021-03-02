@@ -38,7 +38,7 @@ capita
 CCA
 centre
 centres
-Chambo
+chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -53,7 +53,7 @@ CLICC
 CMIP
 COMESA
 Contrastingly
-Covid
+COVID
 crassipes
 CRWB
 Dauenhauer
@@ -62,7 +62,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-Downscaled
+downscaled
 DPRA
 DRR
 Dwangwa
@@ -94,7 +94,7 @@ geospatial
 GHG
 GINI
 Godwell
-GOM
+GoM
 habouring
 Haggblade
 Hanmer
@@ -150,18 +150,17 @@ Malata
 Malombe
 Malota
 Malunga
-managemen
 Mangelsdorf
 Mapulanga
 Masi
-masterplan
+Masterplan
 masterplans
 maximise
 MCCCI
 Mchenga
 MDAs
 MDGS
-megasystem
+Megasystem
 MGDS
 micronutrient
 minimise
@@ -232,7 +231,7 @@ PLWAs
 PPCR
 precarity
 prioritise
-programme
+Programme
 programmes
 Programme’s
 PWP
@@ -285,7 +284,7 @@ UMFULA
 UNAIDS
 UNCTAD
 UNDAF
-Undernutrition
+undernutrition
 UNDP
 UNFCC
 UNFCCC
@@ -302,5 +301,5 @@ waterlogging
 Webersik
 wellbeing
 workplans
-xxxx
+XXXX
 XXXXXXXX
