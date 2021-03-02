@@ -1,7 +1,10 @@
 agro
+aimsexpressed
 alia
 alkalization
+analyse
 analysed
+anthropogenic
 Aragie
 behaviour
 benefitting
@@ -28,6 +31,7 @@ DRR
 Dwangwa
 EG
 El
+ENRM
 enrolment
 ENSO
 evapotranspiration
@@ -63,7 +67,7 @@ Malata
 Malombe
 Mapulanga
 Masi
-masterplan
+Masterplan
 maximise
 MCCCI
 MDAs
@@ -84,7 +88,9 @@ NCCM
 NCCMP
 Nchalo
 NDC
+NECC
 NEP
+NGOs
 Nino
 Niño
 NLGFC
@@ -94,13 +100,16 @@ NSCCC
 NTCCC
 Ntukula
 Nyika
+ons
 operationalize
 Oreochromis
+organisations
 overfishing
 Pakhomo
 parastatals
 peri
 Phalombe
+PLWAs
 PPCR
 prioritise
 programme
