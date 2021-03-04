@@ -6,9 +6,9 @@ Adhikari
 ADMARC
 AfCFTA
 AfDB
-Agri
+agri
 Agric
-agro
+Agro
 agroecological
 aimsexpressed
 Ajefu
@@ -39,7 +39,7 @@ capita
 CCA
 Centre
 centres
-chambo
+Chambo
 Chasukwa
 Chidanti
 Chikwawa
@@ -65,7 +65,7 @@ diarrhoea
 Dihel
 DoDMA
 DowDuPont
-Downscaled
+downscaled
 DPRA
 DRR
 Dryland
@@ -82,7 +82,6 @@ ENRM
 enrolment
 ENSO
 ERASP
-Eutrophication
 evapotranspiration
 famers
 FAO
@@ -175,7 +174,7 @@ Mangelsdorf
 Mangochi
 Mapulanga
 Masi
-masterplan
+Masterplan
 masterplans
 maximise
 MCCCI
@@ -192,7 +191,7 @@ minimise
 miombo
 mmap
 MoA
-modelling
+Modelling
 MoECCM
 MoIWD
 montane
@@ -249,7 +248,7 @@ organisations
 orographic
 overexploitation
 overfished
-Overfishing
+overfishing
 overharvesting
 Pakhomo
 Pannar
@@ -265,9 +264,9 @@ PLWAs
 PPCR
 precarity
 prioritise
-programme
-programmes
+Programme
 Programme’s
+programmes
 PWP
 quartile
 rainfed
@@ -278,7 +277,7 @@ recognised
 reputational
 RISDP
 riverine
-Roadmap
+roadmap
 RTA
 Rukuru
 Rumphi
@@ -287,7 +286,6 @@ SADC
 Salima
 salinization
 SCCF
-schistosomiasis
 SCT
 SDG
 SDGs
@@ -306,13 +304,10 @@ spp
 SPS
 SSC
 STIs
-Stressors
 subnational
 subsector
 summarised
 suppled
-sustainably
-synchrony
 synthesised
 TBT
 Thuma
@@ -347,5 +342,5 @@ wellbeing
 WFP
 woodfuel
 workplans
-xxxx
+XXXX
 XXXXXXXX

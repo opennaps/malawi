@@ -11,7 +11,6 @@ content/01.abstract.md:17:Masi
 content/01.abstract.md:18:riverine
 content/01.abstract.md:20:hydropower
 content/01.abstract.md:20:siltation
-content/01.abstract.md:23:schistosomiasis
 content/02.chapter1-Executive-Summary.md:6:evapotranspiration
 content/02.chapter1-Executive-Summary.md:7:Masi
 content/02.chapter1-Executive-Summary.md:7:Phalombe
@@ -114,7 +113,6 @@ content/03.chapter2-Framework-for-the-NAP.md:159:SDG
 content/03.chapter2-Framework-for-the-NAP.md:160:SDGs
 content/03.chapter2-Framework-for-the-NAP.md:162:operationalize
 content/04.chapter3-Approach-and-Methodologies.md:4:UNFCCC
-content/04.chapter3-Approach-and-Methodologies.md:5:sustainably
 content/04.chapter3-Approach-and-Methodologies.md:9:programmes
 content/04.chapter3-Approach-and-Methodologies.md:17:peri
 content/04.chapter3-Approach-and-Methodologies.md:21:SDG
@@ -233,11 +231,8 @@ content/05.chapter4-National-Context.md:80:masterplan
 content/05.chapter4-National-Context.md:80:Masterplan
 content/05.chapter4-National-Context.md:81:bilharzia
 content/05.chapter4-National-Context.md:81:Madsen
-content/05.chapter4-National-Context.md:81:schistosomiasis
 content/05.chapter4-National-Context.md:81:STIs
-content/05.chapter4-National-Context.md:82:schistosomiasis
 content/05.chapter4-National-Context.md:83:lakeshore
-content/05.chapter4-National-Context.md:83:schistosomiasis
 content/05.chapter4-National-Context.md:84:lakeshore
 content/05.chapter4-National-Context.md:85:UNAIDS
 content/05.chapter4-National-Context.md:85:USAID
@@ -387,7 +382,6 @@ content/07.chapter6-Climate-Change-Adaptation-Assessment.md:61:Chirwa
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:61:FAOSTAT
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:64:Aragie
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:64:GCF
-content/07.chapter6-Climate-Change-Adaptation-Assessment.md:65:eutrophication
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:65:Mtilatila
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:66:Limuwa
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:67:Limuwa
@@ -450,7 +444,6 @@ content/07.chapter6-Climate-Change-Adaptation-Assessment.md:177:SDGs
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:179:ICT
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:181:MGDS
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:181:SDGs
-content/07.chapter6-Climate-Change-Adaptation-Assessment.md:181:Stressors
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:183:ICT
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:184:ICT
 content/07.chapter6-Climate-Change-Adaptation-Assessment.md:184:programmes
@@ -721,7 +714,6 @@ content/08.chapter7-National-Adaptation-Priorities.md:43:Mwanaleza
 content/08.chapter7-National-Adaptation-Priorities.md:43:unaffordable
 content/08.chapter7-National-Adaptation-Priorities.md:44:Actionaid
 content/08.chapter7-National-Adaptation-Priorities.md:44:Aragie
-content/08.chapter7-National-Adaptation-Priorities.md:44:Eutrophication
 content/08.chapter7-National-Adaptation-Priorities.md:44:GCF
 content/08.chapter7-National-Adaptation-Priorities.md:44:hydropower
 content/08.chapter7-National-Adaptation-Priorities.md:44:IFPRI
@@ -742,7 +734,6 @@ content/08.chapter7-National-Adaptation-Priorities.md:53:Sinay
 content/08.chapter7-National-Adaptation-Priorities.md:56:SDGs
 content/08.chapter7-National-Adaptation-Priorities.md:57:GCF
 content/08.chapter7-National-Adaptation-Priorities.md:57:programmes
-content/08.chapter7-National-Adaptation-Priorities.md:71:synchrony
 content/08.chapter7-National-Adaptation-Priorities.md:76:inclusivity
 content/08.chapter7-National-Adaptation-Priorities.md:102:lakeshore
 content/08.chapter7-National-Adaptation-Priorities.md:106:woodfuel
@@ -833,8 +824,8 @@ content/09.chapter8-Implementation-Strategy.md:80:programme
 content/09.chapter8-Implementation-Strategy.md:85:centres
 content/09.chapter8-Implementation-Strategy.md:85:iteratively
 content/09.chapter8-Implementation-Strategy.md:85:modelling
-content/09.chapter8-Implementation-Strategy.md:90:programmes
-content/09.chapter8-Implementation-Strategy.md:102:lakeshore
+content/09.chapter8-Implementation-Strategy.md:89:programmes
+content/09.chapter8-Implementation-Strategy.md:101:lakeshore
 content/10.chapter09-Alignment-with-the-GCF-Country-Programme.md:1:GCF
 content/10.chapter09-Alignment-with-the-GCF-Country-Programme.md:1:Programme
 content/12.chapter11-Monitoring-and-Evaluation-of-Adaptation-Actions-and-Process.md:5:programme
